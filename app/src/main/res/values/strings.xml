@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Midterm</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">title</string>
+    <string name="author">author</string>
+    <string name="tag">tag</string>
+    <string name="createdTime">createdTime</string>
+    <string name="content">content</string>
+</resources>
